@@ -1,2 +1,2 @@
 # C++ Practice Projects🚀
-Aqui estão alguns projetos que procurei desenvolver para praticar minhas habilidades em C++. 
+Here are some projects I aimed to develop to practice my C++ skills.
